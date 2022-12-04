@@ -1,2 +1,1 @@
-my git project
-is up to date
+“How to be up to date in git”
